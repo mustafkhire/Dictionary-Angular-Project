@@ -1,0 +1,20 @@
+[
+  {
+    "wordEnglish": "ComputerScience",
+    "wordNonEnglish": "null",
+    "wordExpanded": "null",
+    "languageCode": "CS",
+    "image": "https://prod-discovery.edx-cdn.org/media/course/image/d64fa565-a848-4f82-8c07-f2a2d98c3e4e-1cf577279324.small.jpeg",
+    "audio": "null",
+    "linkAuthoritative": "null",
+    "linkWikipedia": "https://en.wikipedia.org/wiki/Computer_science",
+    "linkYoutube": "https://www.youtube.com/watch?v=Tzl0ELY_TiM",
+    "authorName": "Mustaf Khire",
+    "dateCreated": "03/05/2020",
+    "dateRevised": "03/05/2020",
+    "fieldOfStudy": "BSD",
+    "helpYes": 0,
+    "helpNo": 1,
+    "definitions": ["5e8d00ebe40af1560fbf969c"]
+  }
+]

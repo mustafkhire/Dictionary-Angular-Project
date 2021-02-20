@@ -1,0 +1,23 @@
+[
+  {
+    "authorName": "Mustaf Khire",
+    "dateCreated": "03/05/2020",
+    "definition": "The study of computation and processes that interact with data",
+    "quality": 40,
+    "likes": 100
+  },
+  {
+    "authorName": "Jaekyoung An",
+    "dateCreated": "03/06/2020",
+    "definition": "The study of data structures and how effective they are in storing data",
+    "quality": 25,
+    "likes": 50
+  },
+  {
+    "authorName": "Haykal Mohamud",
+    "dateCreated": "03/08/2020",
+    "definition": "The study of technology for the purpose of dictating the flow of basketball",
+    "quality": 80,
+    "likes": 75
+  }
+]
